@@ -32,9 +32,9 @@ Cualquier consejo, sugerencia o comentario constructivo será bienvenido. ¡Esto
 
 Contacto:
 
-<a href="www.linkedin.com/in/javier-martín-701b52300" target="_blank">Mi perfil de LinkedIn</a>
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/javier-martín-701b52300)
+<a href="www.linkedin.com/in/javiermave" target="_blank">Mi perfil de LinkedIn</a>
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/javiermave)
 
-[Mi perfil de LinkedIn](www.linkedin.com/in/javier-martín-701b52300)
+[Mi perfil de LinkedIn](www.linkedin.com/in/javiermave)
 
 ¡Gracias por pasar por aquí! 😊
