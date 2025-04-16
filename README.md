@@ -33,8 +33,5 @@ Cualquier consejo, sugerencia o comentario constructivo será bienvenido. ¡Esto
 Contacto:
 
 <a href="https://www.linkedin.com/in/javiermave" target="_blank">Mi perfil de LinkedIn</a>
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/javiermave)
-
-[Mi perfil de LinkedIn](https://www.linkedin.com/in/javiermave)
 
 ¡Gracias por pasar por aquí! 😊
