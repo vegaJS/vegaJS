@@ -32,8 +32,6 @@ Cualquier consejo, sugerencia o comentario constructivo será bienvenido. ¡Esto
 
 Contacto:
 
-[www.linkedin.com/in/
-javier-martín-701b52300
-]
+[Mi LinkedIn](www.linkedin.com/in/javier-martín-701b52300)
 
 ¡Gracias por pasar por aquí! 😊
